@@ -34,7 +34,7 @@ void myTaskMenu()
                 
                 selNum = "";
                 Console.Clear(); 
-                for(int i = 1; i <= 3, i++) Console.WriteLine();
+                for(int i = 1; i <= 3; i++) Console.WriteLine();
                             
                 break;
             }
@@ -46,7 +46,7 @@ void myTaskMenu()
                 selNum = "";
 
                 Console.Clear(); 
-                for(int i = 1; i <= 3, i++) Console.WriteLine();
+                for(int i = 1; i <= 3; i++) Console.WriteLine();
             
                 break;
             }
@@ -55,7 +55,7 @@ void myTaskMenu()
             {
                 exitNah = false;
                 Console.Clear(); 
-                for(int i = 1; i <= 3, i++) Console.WriteLine();
+                for(int i = 1; i <= 3; i++) Console.WriteLine();
             
                 break;
             }
@@ -64,7 +64,7 @@ void myTaskMenu()
             {
                 exitNah = false;
                 Console.Clear(); 
-                for(int i = 1; i <= 3, i++) Console.WriteLine();
+                for(int i = 1; i <= 3; i++) Console.WriteLine();
             
                 break;
             }
